@@ -46,15 +46,6 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 
 
 
-
-<br/>
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
- <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
-</div>
-
-<br/>
-
 ## ✰ Test Artifacts:
 
 - [Checklists](ссылка) 
@@ -70,4 +61,8 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Guppi17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](ссылка)
+
+<div align="center">
+<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
+</div>
 
