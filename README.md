@@ -29,7 +29,7 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 <br/>
 
 
-## Language and Tools:
+## ✰ Language and Tools:
 ![git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
 ![mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![googlechrome](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
@@ -51,12 +51,11 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 <div align="center">
 <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
  <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
- <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
 </div>
 
 <br/>
 
-## Testing Documentation:
+## ✰ Testing Documentation:
 
 - [Checklists](ссылка) 
 - [Test-Suites and Test-Cases](ссылка) 
@@ -67,9 +66,8 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 
 
 
-## Follow me:
+## ✰ Follow me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Guppi17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](ссылка)
-
 
