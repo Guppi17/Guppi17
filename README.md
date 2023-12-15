@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/mee.gif" alt="Raghav Khullar Typer" />
+<img src="https://github.com/Guppi17/Guppi17/blob/main/mee.gif" alt="Alena Smirnova" />
 </div>
 <br/>
 
@@ -19,30 +19,57 @@
 </div>
 <-->
 
+
+
+
+
+
+Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find artifacts that I created during my studies and current internships. I’m currently open to job opportunities as QA Engineer 
+
 <br/>
 
 
-### 👩‍💻 About me:
-
-Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find artifacts that I created during my studies and current internships. I’m currently open to job opportunities as QA Engineer
-
---
-
-### Language and Tools
+## Language and Tools:
 ![git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
 ![mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![googlechrome](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![androidstudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=71b556)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![youtrack](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=71b556)
 ![qase](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=Qase&logoColor=71b556)
-![fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![charlesproxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 ![postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=EF5B25)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=QASE=8cc4d7)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![XCod](https://img.shields.io/badge/XCode-090909?style=for-the-badge&logo=XCod&logoColor=8cc4d7)
 
---
 
+
+
+<br/>
 <div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
+ <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
+ <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
 </div>
+
+<br/>
+
+## Testing Documentation:
+
+- [Checklists](ссылка) 
+- [Test-Suites and Test-Cases](ссылка) 
+- [Bug Reports](ссылка)
+- [SQL Queries](ссылка)
+- [Postman Collections](ссылка)
+- [Git Bash](ссылка)
+
+
+
+## Follow me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Guppi17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](ссылка)
+
+
