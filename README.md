@@ -55,7 +55,7 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 
 <br/>
 
-## ✰ Testing Documentation:
+## ✰ Test Artifacts:
 
 - [Checklists](ссылка) 
 - [Test-Suites and Test-Cases](ссылка) 
