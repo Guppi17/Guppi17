@@ -31,14 +31,13 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 
 
 ## ✰ Language and Tools:
-![git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
+![git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f34f29)
 ![mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![googlechrome](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![androidstudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![youtrack](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=71b556)
-![qase](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=Qase&logoColor=71b556)
 ![charlesproxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=8cc4d7)
 ![postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=EF5B25)
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=QASE=8cc4d7)
