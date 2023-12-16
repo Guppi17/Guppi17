@@ -51,7 +51,7 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 - [Checklists](https://github.com/Guppi17/Checklists) 
 - [Test-Suites and Test-Cases](https://github.com/Guppi17/Test-Suites-and-Test-Cases) 
 - [Bug Reports](https://github.com/Guppi17/Bug-Reports)
-- [SQL Queries](https://github.com/Guppi17/SQL-Queries)
+- [SQL Queries](https://github.com/Guppi17/sql)
 - [Postman Collections](https://github.com/Guppi17/Postman-Collections)
 - [Charles-Proxy](https://github.com/Guppi17/Charles-Proxy)
 - [Bash](https://github.com/Guppi17/Bash)
