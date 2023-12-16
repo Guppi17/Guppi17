@@ -53,8 +53,10 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 - [Bug Reports](https://github.com/Guppi17/Bug-Reports)
 - [SQL Queries](https://github.com/Guppi17/SQL-Queries)
 - [Postman Collections](https://github.com/Guppi17/Postman-Collections)
-- [Git Bash](https://github.com/Guppi17/Bash)
 - [Charles-Proxy](https://github.com/Guppi17/Charles-Proxy)
+- [Bash](https://github.com/Guppi17/Bash)
+- [Git](https://github.com/Guppi17/Git)
+
 
 
 
@@ -62,6 +64,7 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Guppi17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](ссылка)
+[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](guppi1702@gmail.com)
 
 <div align="center">
 <img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
