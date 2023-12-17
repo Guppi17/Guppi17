@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
+
 
 # Welcome To My GitHub Profile !
 
