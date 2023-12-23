@@ -41,6 +41,7 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 ![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=QASE=8cc4d7)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![XCod](https://img.shields.io/badge/XCode-090909?style=for-the-badge&logo=XCod&logoColor=8cc4d7)
+![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=007AC0)
 
 
 
