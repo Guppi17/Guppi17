@@ -22,7 +22,7 @@
 
 
 
-Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find artifacts that I created during my studies and current internships. You can also review my [resume](ссылка). I’m currently open to job opportunities as QA Engineer. 
+Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find artifacts that I created during my studies and current internships. You can also review my [resume](https://drive.google.com/file/d/1uwKALUNspXXvIBzJ_ZHXcQy8liNjUcEd/view?usp=sharing). I’m currently open to job opportunities as QA Engineer. 
 
 
 <br/>
@@ -62,7 +62,7 @@ Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find a
 ## ✰ Follow me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Guppi17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](ссылка)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/al-smirnova)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:guppi1702@gmail.com)
 
 <div align="center">
