@@ -22,7 +22,7 @@
 
 
 
-Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find artifacts that I created during my studies and current internships. You can also review my [resume](https://drive.google.com/file/d/1uwKALUNspXXvIBzJ_ZHXcQy8liNjUcEd/view?usp=sharing). I’m currently open to job opportunities as QA Engineer. 
+Hello! My name is Alena, and I'm a QA Engineer. In my portfolio, you will find artifacts that I created during my studies and current internships. You can also review my [resume](https://drive.google.com/file/d/1fDqaHcK-XrpDHrzrix3Cgssp1bJT-usi/view?usp=sharing). I’m currently open to job opportunities as QA Engineer. 
 
 
 <br/>
